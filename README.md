@@ -42,6 +42,8 @@ The redesigned website will serve as a comprehensive e-commerce platform with mu
 - Dynamic Health Detail Page - `/dynamic-health/[slug]`
 - Research Record Detail Page - `/research-records/[slug]`
 
+[View on Eraser![](https://app.eraser.io/workspace/3G94zrmlxPiZ6nErLiCP/preview?elements=lB8Csq0iWhqNV2RJJHGy7Q&type=embed)](https://app.eraser.io/workspace/3G94zrmlxPiZ6nErLiCP?elements=lB8Csq0iWhqNV2RJJHGy7Q)
+
 ## Access Model
 
 **MVP Freemium Logic**
